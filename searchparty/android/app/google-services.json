@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134826951635",
+    "project_id": "search-party-gpthv",
+    "storage_bucket": "search-party-gpthv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134826951635:android:9d4e7820d3713509666526",
+        "android_client_info": {
+          "package_name": "com.example.searchparty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpdtuPxyGzKfuIzlbDBxE-0bZwiq3gSsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
